@@ -17,13 +17,13 @@
 
 ###
 
-<h4 align="left">Frank here!
+<h2 align="left">Frank here!
 
-Hello guys, how are yall? My name is Frank Oliveira, and i'm a dev! 
+<h2>Hello guys, how are yall? My name is Frank Oliveira, and i'm a dev! 
 
 I'm 18yo and i start to be a dev when i was 16yo. I started on this "world" since i was a kid, then, i've been on this carrer fighting bugs and many things that i can face 😁. While i am a dev, 
 
-Currently i started my firt real project by myself! In that project i am using Flutter to Front-End and Php to Back-end. Sincerely, in that project i have faced many bugs, and i learn many how can i can Face a big real project. So if you ant know more about me, contact me on my social media!!
+Currently i started my firt real project by myself! In that project i am using Flutter to Front-End and Php to Back-end. Sincerely, in that project i have faced many bugs, and i learn many how can i can Face a big real project. So if you ant know more about me, contact me on my social media!!</h2>
 
 
 <br><br>- 🔭 I’m working as mobile developer<br><br>- 📚 I'm currently learning mobile development (Dart, Flutter...)<br><br>- ⚡ In my free time I go to the church and play guitar  😁</h4>
